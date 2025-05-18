@@ -1,0 +1,16 @@
+{
+	"records": [
+		{
+			"key": "validate_coffee_order",
+			"source": "./policies/validate_coffee_order.sentinel",
+			"sourceSum": "",
+			"dest": "/home/ubuntu/learn-sentinel-hashicups/policies/validate_coffee_order.sentinel"
+		},
+		{
+			"key": "validate_coffee_order_override",
+			"source": "./policies/validate_coffee_order.sentinel",
+			"sourceSum": "",
+			"dest": "/home/ubuntu/learn-sentinel-hashicups/policies/validate_coffee_order.sentinel"
+		}
+	]
+}

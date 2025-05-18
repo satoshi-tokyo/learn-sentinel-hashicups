@@ -1,0 +1,10 @@
+{
+	"records": [
+		{
+			"key": "hashicups",
+			"source": "./imports/modules/helper/hashicups.sentinel",
+			"sourceSum": "",
+			"dest": "/home/ubuntu/learn-sentinel-hashicups/imports/modules/helper/hashicups.sentinel"
+		}
+	]
+}

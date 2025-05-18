@@ -1,0 +1,10 @@
+{
+	"records": [
+		{
+			"key": "order",
+			"source": "./imports/order/order.json",
+			"sourceSum": "",
+			"dest": "/home/ubuntu/learn-sentinel-hashicups/imports/order/order.json"
+		}
+	]
+}
